@@ -341,3 +341,14 @@ h3 {
     text-align: center;
     padding: 10px;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    margin-top: 2rem;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    color: yellow;
+    text-align: center;
+}
