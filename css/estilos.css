@@ -29,7 +29,7 @@ body {
 #fundoGame {
     width: 950px;
     height: 630px;
-    background-image: url(../img/fundo_game.jpg);
+    background-image: url(../img/fundo_game_deserto.jpg);
     border-color: #FFF;
     border-style: solid;
 }
@@ -61,7 +61,7 @@ body {
     position: absolute;
     left: 775px;
     top: 447px;
-    background-image: url(../img/inimigo2.png);
+    background-image: url(../img/tanque001.png);
 }
 
 /* POW */
