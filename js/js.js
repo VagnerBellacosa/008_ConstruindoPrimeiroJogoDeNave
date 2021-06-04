@@ -2,8 +2,13 @@
 //*  Jogo Resgate : Salve o POW e ao mesmo tempo destrui unidades      */
 //*  inimigas, cuidados com as unidades areas e terrestres.            */
 //*  Atire nos inimigos e pouse o helicoptero para salvar seu POW      */
+/*      GAME GENIOS                                                    */
+/* Adaptacao do codigo de Denilson Bonatti                             */
+/* DIO Bootcamp - Games Developers                                     */
+/* Autor : Vagner Renato Bellacosa                                     */
+/* Local : Campinas - SP                                               */
+/* Data : 2021-06-02                                                   */
 //******************************************************************** */
-
 
 //* Inicio do desenho da tela inicial  */
 function start()  {
